@@ -1,5 +1,5 @@
 """A python script to rename files.  Needs Python 2 or 3, easygui, numpy,
-and openpyxl
+and openpyxl (all pip installable as of Aug 26th 2019).
 Beth Cimini, 2014-2019
 """
 
